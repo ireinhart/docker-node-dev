@@ -1,0 +1,4 @@
+gulp gulp-rename gulp-concat gulp-uglify gulp-jade gulp-less gulp-livereload marked gulp-changed gulp-html-prettify
+gulp-w3cjs gulp-ignore gulp-css-flip css-flip through2 gulp-util gulp-angular-htmlify gulp-shell gulp-jsonminify
+gulp-karma chai karma karma-chai karma-coverage karma-junit-reporter karma-mocha karma-mocha-reporter
+karma-phantomjs-launcher karma-sinon mocha should sinon istanbul mocha-multi
