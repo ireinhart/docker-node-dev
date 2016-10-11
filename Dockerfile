@@ -1,4 +1,4 @@
-FROM node:5.6.0
+FROM node
 MAINTAINER Ingo Reinhart <ingo.reinhart@gmail.com>
 WORKDIR /
 ADD . /install
